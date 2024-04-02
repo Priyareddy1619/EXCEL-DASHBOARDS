@@ -9,8 +9,6 @@ This Excel dashboard project aims to provide interactive visualizations and insi
 - Dynamic slicers allowing users to filter data by region, product category, and time period.
 - Summary tables displaying key performance metrics such as total revenue, average order value, and sales growth.
 
-## Preview
-![Excel Dashboard Preview](dashboard_preview.png)
 
 ## Getting Started
 To open the Excel dashboard:
